@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .box {
   text-align: left;
@@ -11,7 +9,15 @@
   padding-left: 10px;
 }
 
+a{
+  text-decoration:none;
+  color: inherit;
+}
+a .box:hover{
+  border-color: rgb(11, 202, 87);
+}
 .App {
+  text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;

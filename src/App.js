@@ -15,10 +15,12 @@ export default function App (){
             return post;
           }
         }).map((post, index) => (
-          <div className="box" key={index}>
-            <p>{post.title}</p>
-            <p>{post.author}</p>
-          </div>
+          <a key={index} href = {post.link} >
+            <div className="box" key={index}>
+              <p>{post.title}</p>
+              <p>{post.author}</p>
+            </div>
+          </a>
         ))
       }
     </div>
