@@ -1,61 +1,122 @@
-[{
-    "id": 1,
-    "title": "Binary search",
-    "author": "cp-algorithms",
-    "date": "4/19/2022"
-  }, 
+[
   {
-    "id": 2,
-    "title": "আমি তোমাকে ভালোবাসি",
-    "author": "Collete Pitcaithly",
-    "date": "5/14/2022"
+    "id": 1,
+    "title": "অ্যালগরিদম কমপ্লেক্সিটি",
+    "author": "শাফায়েত আশরাফ",
+    "link": "http://www.shafaetsplanet.com/planetcoding/?p=1313"
   },
   {
+    "id": 2,
+    "title": "লিংকড লিস্ট",
+    "author": "শাফায়েত আশরাফ",
+    "link": "http://www.shafaetsplanet.com/planetcoding/?p=2689"
+  }, 
+  {
     "id": 3,
-    "title": "Who's Singin' Over There? (a.k.a. Who Sings Over There) (Ko to tamo peva)",
-    "author": "Patty Glenister",
-    "date": "4/27/2022"
+    "title": "লিংকড লিস্ট",
+    "author": "হাসান আবদুল্লাহ",
+    "link": "https://hellohasan.com/category/data-structure/linked-list/"
   },
   {
     "id": 4,
-    "title": "Don't Tell Mom the Babysitter's Dead",
-    "author": "Tamqrah Raeburn",
-    "date": "12/30/2021"
+    "title": "লিংকড লিস্ট",
+    "author": "Anindya Sundar Paul",
+    "link": "https://anindyaspaul.com/blog/2013/06/07/linked-list/"
   },
   {
     "id": 5,
-    "title": "Mount Head (Atama yama)",
-    "author": "Darsie Goad",
-    "date": "6/13/2022"
+    "title": "লিংকড লিস্ট",
+    "author": "তামিম শাহরিয়ার সুবীন",
+    "link": "https://www.youtube.com/watch?v=k3wD1KtP8EE"
   },
   {
     "id": 6,
-    "title": "Cabin in the Sky",
-    "author": "Janet Votier",
-    "date": "8/11/2022"
+    "title": "Sieve of Eratosthenes",
+    "author": "Shafayet Ashraf",
+    "link": "http://www.shafaetsplanet.com/planetcoding/?p=624"
   },
   {
     "id": 7,
-    "title": "Blood Moon",
-    "author": "Verne Francais",
-    "date": "11/4/2022"
+    "title": "Sieve of Eratosthenes",
+    "author": "CP-Algorithm",
+    "link": "https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html"
   },
   {
     "id": 8,
-    "title": "Loner (Woetoli)",
-    "author": "Donni Bootland",
-    "date": "12/10/2021"
+    "title": "Z-function and",
+    "author": "CP-Algorithm",
+    "link": "https://cp-algorithms.com/string/z-function.html"
   },
   {
     "id": 9,
-    "title": "Endless Love",
-    "author": "Dulcinea Potticary",
-    "date": "7/21/2022"
-  }, 
+    "title": "প্রিম’স অ্যালগোরিদম",
+    "author": "Sudip Sarker",
+    "link": "https://returnzerooo.wordpress.com/2016/06/09/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%B8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/"
+  },
   {
     "id": 10,
-    "title": "Aujourd'hui",
-    "author": "Crystie Perche",
-    "date": "11/18/2022"
-  }]
-  
+    "title": "Prim’s algorithm",
+    "author": "geeksforgeeks",
+    "link": "https://www.geeksforgeeks.org/prims-algorithm-using-priority_queue-stl/"
+  }, 
+  {
+    "id": 11,
+    "title": "DP trick",
+    "author": "Shakil Ahmed",
+    "link": "https://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-tricks-knuths-optimization.html"
+  },
+  {
+    "id": 12,
+    "title": "Dynamic Programming",
+    "author": "CodeChef",
+    "link": "https://www.codechef.com/wiki/tutorial-dynamic-programming#:~:text=Dynamic%20programming%20(usually%20referred%20to,coding%20part%20is%20very%20easy."
+  },
+  {
+    "id": 13,
+    "title": "Dynamic Programming",
+    "author": "Sudip Sarker",
+    "link": "https://returnzerooo.wordpress.com/2017/11/12/lightoj-dp-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A7%A7/"
+  },
+  {
+    "id": 14,
+    "title": "Dynamic Programming",
+    "author": "Codeforces",
+    "link": "https://codeforces.com/blog/entry/67679"
+  },
+  {
+    "id": 15,
+    "title": "Python 3",
+    "author": "মাকসুদুর রহমান মাটিন",
+    "link": "https://python.maateen.me/"
+  },
+  {
+    "id": 16,
+    "title": "Java",
+    "author": "A N M Bazlur Rahman",
+    "link": "https://bazlur.com/tags/java/"
+  },
+  {
+    "id": 17,
+    "title": "Chain of Responsibility",
+    "author": "অমিত শীল অমি",
+    "link": "https://lordamit.blogspot.com/2012/06/chain-of-responsibility.html"
+  },
+  {
+    "id": 18,
+    "title": "Segment Tree",
+    "author": "Codeforces",
+    "link": "https://codeforces.com/blog/entry/80031"
+  },
+  {
+    "id": 19,
+    "title": "S.O.L.I.D ডিজাইন প্রিন্সিপলস",
+    "author": "অমিত শীল অমি",
+    "link": "https://masnun.com/2015/06/15/bangla-screencast-solid-design-principles.html"
+  },
+  {
+    "id": 20,
+    "title": "সার্কেল ইউনিয়ন",
+    "author": "আনা ফারিহা",
+    "link": "https://chorui12.blogspot.com/2012/05/blog-post.html"
+  }
+]
